@@ -1,0 +1,28 @@
+name: waltinger
+favicon: null
+layout_spectrum: 0.1739397484343499
+typography_spectrum: 0.39034767844714224
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6414705372881144
+  lightness: 0.5847706904169172
+  saturation: 0.5453571639955044
+  rhythmicContrast: 0.3275397573597729
+purpose: []
